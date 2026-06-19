@@ -1344,8 +1344,8 @@ conda install pandas numpy matplotlib seaborn scipy reportlab
 
 ### Running in Google Colab (Recommended)
 
-1. **Upload notebook**: Import `Supply_Chain_Analytics_Complete.ipynb` to Colab
-2. **Upload data**: Mount Google Drive, upload `DataCoSupplyChainDataset.csv`
+1. **Upload notebook**: Import `Supply_Chain_Root_cause_analysis.ipynb` to Colab
+2. **Upload data**: Mount Google Drive, upload `supply chain.csv`
 3. **Update path**: Modify file path in Cell 2 to match your Drive folder
 4. **Run cells**: Execute cells 1-20 sequentially
 5. **Download outputs**: Charts, PDF, and CSV files generated automatically
@@ -1356,29 +1356,19 @@ conda install pandas numpy matplotlib seaborn scipy reportlab
 # Start Jupyter
 jupyter notebook
 
-# Open Supply_Chain_Analytics_Complete.ipynb
+# Open Supply_Chain_Delay_Root_cause_analysis.ipynb
 # Update file path to local location
 # Run all cells
 ```
 
 ---
 
-## 📦 Deliverables
-
-### Documentation (6 files)
-- ✅ README.md (this GitHub file)
-- ✅ README_WITH_CODE_EXPLANATIONS.md (comprehensive guide)
-- ✅ EDA_POST_CLEANING.md (10 EDA cells)
-- ✅ PROJECT_GUIDE.md (concept deep dives)
-- ✅ QUICK_START_GUIDE.md (5-min setup)
-- ✅ PROJECT_STRUCTURE.md (navigation)
-
+ 
 ### Code (1 notebook)
 - ✅ Supply_Chain_Analytics_Complete.ipynb (20 cells, 500+ lines)
 
 ### Outputs (When Run)
 - ✅ 5 visualization PNGs
-- ✅ 1 PDF executive report
 - ✅ 4 CSV data exports
 - ✅ Cleaned dataset (174K+ records)
 
@@ -1403,41 +1393,12 @@ This is an educational/reference project. Contributions welcome for:
 
 ---
 
-## 📄 License
-
-MIT License - See LICENSE file
-
----
-
 ## 👨‍💼 Author
 
 **Data Scientist / Analyst**
 - Expertise: Supply chain analytics, vendor optimization, statistical analysis
 - Tools: Python, Pandas, SQL
 - Focus: Data-driven decision making
-
----
-
-## 📞 Questions?
-
-1. **Quick questions**: Check FAQ in PROJECT_STRUCTURE.md
-2. **Technical help**: Review QUICK_START_GUIDE.md
-3. **Concept questions**: Read PROJECT_GUIDE.md
-4. **Code questions**: See README_WITH_CODE_EXPLANATIONS.md
-5. **EDA questions**: Review EDA_POST_CLEANING.md
-
----
-
-## 🎯 Key Takeaways
-
-### For Practitioners
-> **This project demonstrates that supply chain problems are solvable through systematic analysis. A 6.5x performance gap between vendors is not acceptable; it's an optimization opportunity worth $80K-200K annually. Start with data, identify root causes, act systematically.**
-
-### For Students
-> **This project teaches industrial-strength analytics. Real data is messy. Real problems are multidimensional. Real solutions require combining statistics, programming, domain knowledge, and business acumen. Master this project, and you can solve any similar problem.**
-
-### For Researchers
-> **This project validates that simple, interpretable metrics (average, late rate, std dev) reveal more actionable insights than complex black-box models. Explainability matters in practice. Domain understanding matters. Data quality matters.**
 
 ---
 
