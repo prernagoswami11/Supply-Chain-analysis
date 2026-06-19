@@ -19,9 +19,8 @@
 6. [Learning Outcomes](#-learning-outcomes)
 7. [Real-World Applicability](#-real-world-applicability)
 8. [Technical Stack](#-technical-stack)
-9. [Project Structure](#-project-structure)
-10. [Quick Start](#-quick-start)
-11. [Deliverables](#-deliverables)
+9. [Quick Start](#-quick-start)
+10. [Deliverables](#-deliverables)
 
 ---
 
